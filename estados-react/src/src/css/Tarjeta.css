@@ -1,0 +1,53 @@
+
+
+input{
+    border-radius: 5px;
+    height: 60px;
+    border: solid 1px rgb(150, 150, 150);
+    background-color: rgb(204, 202, 202);
+}
+
+
+
+.btn:hover{
+    background-color: rgb(61, 128, 105) !important;
+    width: 100px;
+    border-radius: 5px !important;
+    color: #fff !important;
+}
+.btnimg{
+    width: 100px;
+    border: none;
+    
+}
+.imgs{
+    width: 100px;
+    height: 70px;
+}
+
+.fondo{
+
+    background-image: url(../Imagenes/car.jpg);
+    background-size: cover;
+    
+    height: 100vh;
+}
+
+textarea{
+    border-radius: 5px;
+    
+    border: solid 1px rgb(150, 150, 150);
+    background-color: rgb(204, 202, 202);
+}
+.no{
+    width: 500px;
+    border: none;
+}
+h1,h4,p{
+    color: #fff;
+}
+.btn{
+    background-color: rgb(228, 222, 222) !important;
+    width: 100px;
+    border-radius: 5px !important;
+}
